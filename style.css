@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.main-container{
+    
+    width: 320px;
+    height: 497px;
+    margin:152px 560px 151px 560px;
+    border-radius: 20px;
+    background-color: #ffff;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.forQr{
+    width: 288px;
+    height:288px;
+    background-color: #2C7DFA;
+    border-radius: 10px;
+}
+body{
+    background-color: lightgray
+    
+}
+.forQr img{
+    padding: 64px;
+   
+}
+.ForText{
+    margin-top: 24px;
+}
+.ForText .p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+
+
+}
+.ForText .p2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+.ForText .p3{
+    margin: 16px 16px 40px 16px;
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    font-family: body;
+}
